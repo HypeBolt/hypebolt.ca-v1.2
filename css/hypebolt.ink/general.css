@@ -6,7 +6,7 @@ main {
     padding-top: 74px;
     padding-bottom: 74px;
     text-align: center;
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('/old/img/bg.png');
+    background-color: #000034;
 }
 
 .title h1 {
