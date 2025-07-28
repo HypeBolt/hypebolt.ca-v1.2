@@ -1,0 +1,109 @@
+main {
+    padding-left: 0;
+}
+
+.title {
+    padding-top: 74px;
+    padding-bottom: 74px;
+    text-align: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('/old/img/bg.png');
+}
+
+.title h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    color: #f5ea76;
+}
+
+.txt {
+    padding-top: 50px;
+    padding-right: 24%;
+    padding-left: 24%;
+}
+
+.txt h1 {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.txt h3 {
+    padding-top: 15px;
+}
+
+.txt p {
+    margin-left: 10px;
+    font-size: 19px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.txt ul {
+    font-size: 17;
+    padding-top: 15px;
+}
+
+.txt ol {
+    font-size: 17;
+    padding-bottom: 15px;
+}
+
+.txt li {
+    padding-bottom: 10px;
+}
+
+.txt a {
+    color: #f5ea76;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.txt a:hover {
+    text-decoration: underline;
+}
+
+.txt h1, h2, h3 {
+    color: #f5ea76;
+}
+
+.vis {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.vis img {
+    border-radius: 20px;
+    width: 75%;
+    height: auto;
+    margin-bottom: 0;
+}
+
+.vis h5 {
+    color: #585858;
+    text-align: left;
+    padding: 0;
+    padding-left: 13%;
+}
+
+@media (max-width: 768px) {
+    .txt {
+        padding-top: 10px;
+        padding-right: 5%;
+        padding-left: 5%;
+    }
+    .txt p {
+        font-size: 15px;
+        padding-bottom: 15px;
+    }
+    .title {
+        background: #101010;
+    }
+    
+    .title ent {
+        color: #00a9ff;
+    }
+    
+    .title ofl {
+        color: #ff5600;
+    }
+}
+

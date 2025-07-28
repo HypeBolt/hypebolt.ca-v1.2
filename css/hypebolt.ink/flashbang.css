@@ -1,0 +1,110 @@
+main {
+    padding-left: 0;
+}
+
+.title {
+    padding-top: 74px;
+    padding-bottom: 74px;
+    text-align: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('/img/bgw.png');
+}
+
+.title h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    color: #333333;
+}
+
+.txt {
+    padding-top: 50px;
+    padding-right: 24%;
+    padding-left: 24%;
+}
+
+.txt h1 {
+    padding-bottom: 15px;
+    padding-top: 15px;
+    color: #242424;
+}
+
+.txt h3 {
+    padding-top: 15px;
+    color: #242424;
+}
+
+.txt p {
+    margin-left: 10px;
+    font-size: 19px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.txt ul {
+    font-size: 17;
+    padding-top: 15px;
+}
+
+.txt ol {
+    font-size: 17;
+    padding-bottom: 15px;
+}
+
+.txt li {
+    padding-bottom: 10px;
+}
+
+.txt a {
+    color: #0095e1;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.txt a:hover {
+    text-decoration: underline;
+}
+
+.txt h1, h2, h3 {
+    color: #2c3e50;
+}
+
+.vis {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.vis img {
+    border-radius: 20px;
+    width: 75%;
+    height: auto;
+    margin-bottom: 0;
+}
+
+.vis h5 {
+    color: #6c757d;
+    text-align: left;
+    padding: 0;
+    padding-left: 13%;
+}
+
+ent {
+    color: #00a9ff;
+}
+    
+ofl {
+    color: #ff5600;
+}
+
+@media (max-width: 768px) {
+    .txt {
+        padding-top: 10px;
+        padding-right: 5%;
+        padding-left: 5%;
+    }
+    .txt p {
+        font-size: 15px;
+        padding-bottom: 15px;
+    }
+    .title {
+        background: #e9ecef;
+    }
+}

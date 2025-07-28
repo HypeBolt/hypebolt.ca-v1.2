@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Internal Server Error</title>
+    <link href="https://hypebolt.ink/img/gtch.ico" rel="icon">
+    
+    <link href="https://hypebolt.ink/css/error.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    
+    <meta charset="utf-8">
+    <meta name="description" content="Internal Server Error.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="container">
+        <div class="content-left">
+            <p class="error-code">500</p>
+            <h1 class="error-message">Internal Server Error</h1>
+            <p class="error-description">The server has encountered an error.</p>
+            <a href="/" class="home-button">Home</a>
+        </div>
+        <div class="content-right">
+            <iframe src="https://www.youtube.com/embed/uuCQmGFF_kA" allowfullscreen></iframe>
+        </div>
+    </div>
+</body>
+</html>

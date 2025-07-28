@@ -1,0 +1,65 @@
+<!DOCTYPE html> <html lang="en">
+<head>
+    <!-- Tab Content -->
+    <title>About Us | HypeBolt Studios</title>
+    <link rel="icon" href="./img/favicon.ico">
+    
+    <!-- CSS Stylesheets -->
+    <link rel="stylesheet" href="./css/main.css">
+    <link rel="stylesheet" href="./css/hypebolt.ink/general.css">
+    <link rel="stylesheet" href="./css/hypebolt.ink/nav.css">
+    
+    <!-- Metadata -->
+    <meta name="description" content="About HypeBolt Studios.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <section class="navigation">
+        <div class="banner">
+           <img src="./img/logo-wordmark.png" alt="HypeBolt Studios Banner">
+        </div>
+        <div class="navbtn">
+            <ul>
+                <a href="./"><li>Home</li></a>
+                <a class="active" href="/about"><li class="active">About</li></a>
+            </ul>
+        </div>
+    </section>
+    
+    <main>
+        <section class="title">
+            <h1>About Us</h1>
+            <p>Crafting Quality Entertainment</p>
+        </section>
+        <section class="txt" id="scrolled">
+            <h1>What is HypeBolt Studios</h1>
+            <h3>Who We Are</h3>
+            <p>HypeBolt Studios is a Canadian-based entertainment studio with the passion of bringing the most quality content possible.</p>
+            <h3>Our Mission</h3>
+            <p>At HypeBolt Studios we are dedicated to telling the most immersive and emotional stories. Forged from the heart of dreams, we are here to show you worlds you have never seen, put you in the lives of all sorts of characters from dark to light.</p>
+            <p>We believe that with this knowledge of worlds unknown, people who have fought through hell, people who caused hell itself, people who made a change for the better, or for the worse, we believe that you can use this knowledge and forge your own story, your own dreams.</p>
+            <p>At HypeBolt Studios we believe YOU can be the main character, you can make that change.</p>
+        </section>
+    </main>
+    
+    
+</body>
+</html>
+
+
+
+<!-- 
+
+Best steam category:
+https://store.steampowered.com/category/exploration_open_world 
+
+  _    _                  ____        _ _   
+ | |  | |                |  _ \      | | |  
+ | |__| |_   _ _ __   ___| |_) | ___ | | |_ 
+ |  __  | | | | '_ \ / _ \  _ < / _ \| | __|
+ | |  | | |_| | |_) |  __/ |_) | (_) | | |_ 
+ |_|  |_|\__, | .__/ \___|____/ \___/|_|\__|
+          __/ | |                           
+         |___/|_|                           
+
+-->

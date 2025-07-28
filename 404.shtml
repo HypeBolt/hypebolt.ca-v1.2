@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Page Not Found</title>
+    <link href="/img/gtch.ico" rel="icon">
+    
+    <link href="/css/error.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    
+    <meta charset="utf-8">
+    <meta name="description" content="Page Not Found.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    
+    <div class="container">
+        <div class="content-left">
+            <p class="error-code">404</p>
+            <h1 class="error-message">Page Not Found</h1>
+            <p class="error-description">This page may have been deleted, you typed it wrong, or it has been moved to a new url. Or maybe you just typed something like "hypebolt.ink/FRY0iF8my8U".</p>
+            <a href="/" class="home-button">Home</a>
+        </div>
+        
+        <div class="content-right">
+            <iframe src="https://www.youtube.com/embed/hT_nvWreIhg" allowfullscreen></iframe>
+        </div>
+    </div>
+    
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Authorization Needed</title>
+    <link href="https://hypebolt.ink/img/gtch.ico" rel="icon">
+    
+    <link href="https://hypebolt.ink/css/error.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    
+    <meta charset="utf-8">
+    <meta name="description" content="Authorization Needed.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="container">
+        <div class="content-left">
+            <p class="error-code">401</p>
+            <h1 class="error-message">Authorization Needed</h1>
+            <p class="error-description">If you got this error, you closed the login popup. Please reload to get it again or leave the page.</p>
+            <a href="/" class="home-button">Home</a>
+        </div>
+        <div class="content-right">
+            <iframe src="https://www.youtube.com/embed/93yk6RoTc2Y" allowfullscreen></iframe>
+        </div>
+    </div>
+</body>
+</html>
