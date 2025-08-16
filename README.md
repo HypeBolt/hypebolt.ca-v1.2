@@ -1,1 +1,1 @@
-## Repository deployed at https://hypebolt.github.io/hypebolt.ca-v1.2/
+## Repository deployed at https://studio-v1.2.git.hypebolt.org/
